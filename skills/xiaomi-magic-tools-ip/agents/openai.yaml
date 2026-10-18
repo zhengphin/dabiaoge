@@ -1,0 +1,4 @@
+interface:
+  display_name: "小米的奇妙办法局"
+  short_description: "设计小米系列的角色、神奇工具、成长喜剧与短动画单集"
+  default_prompt: "Use $xiaomi-magic-tools-ip to design an original Xiaomi episode with a unique magical tool and earned character growth."
